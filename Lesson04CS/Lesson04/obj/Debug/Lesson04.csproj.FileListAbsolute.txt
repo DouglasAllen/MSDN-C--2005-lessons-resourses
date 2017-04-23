@@ -1,0 +1,4 @@
+C:\Users\kb9agt\MSDN\Lesson04CS\Lesson04\obj\Debug\Lesson04.exe
+C:\Users\kb9agt\MSDN\Lesson04CS\Lesson04\obj\Debug\Lesson04.Form1.resources
+C:\Users\kb9agt\MSDN\Lesson04CS\Lesson04\obj\Debug\Lesson04.Properties.Resources.resources
+C:\Users\kb9agt\MSDN\Lesson04CS\Lesson04\obj\Debug\Lesson04.csproj.GenerateResource.Cache

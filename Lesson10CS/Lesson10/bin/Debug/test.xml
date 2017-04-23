@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<carlot>
+    <car>
+        <make>Oldsmobile</make>
+        <model>Cutlas Supreme</model>
+        <elapsedMiles>50000</elapsedMiles>
+    </car>
+    <car>
+        <make>Chevrolet</make>
+        <model>Camero</model>
+        <elapsedMiles>60000</elapsedMiles>
+    </car>
+</carlot>

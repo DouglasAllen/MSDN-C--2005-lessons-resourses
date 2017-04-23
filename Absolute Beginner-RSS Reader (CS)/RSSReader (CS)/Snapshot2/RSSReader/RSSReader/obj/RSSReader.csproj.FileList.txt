@@ -1,0 +1,10 @@
+obj\Debug\RSSReader.exe
+obj\Debug\RSSReader.pdb
+bin\Debug\RSSReader.exe
+bin\Debug\RSSReader.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RSSReader.Properties.Resources.resources
+obj\Debug\RSSReader.csproj.GenerateResource.Cache
+obj\Debug\RSSReader.MainForm.resources
+obj\Debug\RSSReader.ChannelDialog.resources
+obj\Debug\RSSReader.FolderDialog.resources

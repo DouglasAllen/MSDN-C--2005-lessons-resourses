@@ -1,0 +1,12 @@
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\bin\Debug\RSSReader.exe.config
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.exe
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.pdb
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\bin\Debug\rss.mdf
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\bin\Debug\rss_log.ldf
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\bin\Debug\RSSReader.exe
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.ChannelDialog.resources
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.FolderDialog.resources
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.MainForm.resources
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.Properties.Resources.resources
+C:\Users\kb9agt\MSDN\Absolute Beginner-RSS Reader (CS)\RSSReader (CS)\Snapshot8\RSSReader\RSSReader\obj\Debug\RSSReader.csproj.GenerateResource.Cache

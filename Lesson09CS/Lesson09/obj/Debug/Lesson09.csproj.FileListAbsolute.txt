@@ -1,0 +1,11 @@
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\bin\Debug\Lesson09.exe.config
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\obj\Debug\Lesson09.exe
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\obj\Debug\Lesson09.pdb
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\bin\Debug\MyCompany.mdf
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\bin\Debug\MyCompany_log.ldf
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\bin\Debug\Lesson09.exe
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\bin\Debug\Lesson09.pdb
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\obj\Debug\Lesson09.Form1.resources
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\obj\Debug\Lesson09.Form2.resources
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\obj\Debug\Lesson09.Properties.Resources.resources
+C:\Users\kb9agt\MSDN\Lesson09CS\Lesson09\obj\Debug\Lesson09.csproj.GenerateResource.Cache

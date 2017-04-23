@@ -1,0 +1,4 @@
+C:\Users\kb9agt\MSDN\Lesson11CS\Lesson11\obj\Debug\Lesson11.exe
+C:\Users\kb9agt\MSDN\Lesson11CS\Lesson11\obj\Debug\Lesson11.pdb
+C:\Users\kb9agt\MSDN\Lesson11CS\Lesson11\obj\Debug\Lesson11.Properties.Resources.resources
+C:\Users\kb9agt\MSDN\Lesson11CS\Lesson11\obj\Debug\Lesson11.csproj.GenerateResource.Cache

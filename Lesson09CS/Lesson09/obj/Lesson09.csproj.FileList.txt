@@ -1,0 +1,12 @@
+bin\Debug\MyCompany.mdf
+bin\Debug\MyCompany_log.ldf
+bin\Debug\Lesson09.exe.config
+bin\Debug\Lesson09.exe
+bin\Debug\Lesson09.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Lesson09.Form1.resources
+obj\Debug\Lesson09.Properties.Resources.resources
+obj\Debug\Lesson09.csproj.GenerateResource.Cache
+obj\Debug\Lesson09.exe
+obj\Debug\Lesson09.pdb
+obj\Debug\Lesson09.Form2.resources

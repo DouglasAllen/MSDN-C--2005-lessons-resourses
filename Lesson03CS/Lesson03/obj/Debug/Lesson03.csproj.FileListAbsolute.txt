@@ -1,0 +1,2 @@
+C:\Users\kb9agt\MSDN\Lesson03CS\Lesson03\obj\Debug\Lesson03.Properties.Resources.resources
+C:\Users\kb9agt\MSDN\Lesson03CS\Lesson03\obj\Debug\Lesson03.csproj.GenerateResource.Cache

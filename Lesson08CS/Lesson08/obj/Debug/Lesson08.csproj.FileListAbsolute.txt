@@ -1,0 +1,8 @@
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\bin\Debug\Lesson08.mdf
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\bin\Debug\Lesson08_log.ldf
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\bin\Debug\Lesson08.exe
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\bin\Debug\Lesson08.pdb
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\obj\Debug\Lesson08.Properties.Resources.resources
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\obj\Debug\Lesson08.csproj.GenerateResource.Cache
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\obj\Debug\Lesson08.exe
+C:\Users\kb9agt\MSDN\Lesson08CS\Lesson08\obj\Debug\Lesson08.pdb
