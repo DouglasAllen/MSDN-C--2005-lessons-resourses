@@ -1,2 +1,0 @@
-C:\Users\kb9agt\MSDN\Lesson01CS\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
-C:\Users\kb9agt\MSDN\Lesson01CS\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
